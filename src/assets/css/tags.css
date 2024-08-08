@@ -1,0 +1,19 @@
+.custom-tag-red {
+    background-color: #ff0000 !important; /* Rojo */
+    color: white !important; /* Texto visible */
+  }
+  
+  .custom-tag-blue {
+    background-color: #0000ff !important; /* Azul */
+    color: white !important;
+  }
+  
+  .custom-tag-green {
+    background-color: #00ff00 !important; /* Verde */
+    color: white !important;
+  }
+  
+  .custom-tag-peru {
+    background-color: #ff9100 !important; /* Verde */
+    color: white !important;
+  }

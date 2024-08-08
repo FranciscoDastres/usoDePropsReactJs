@@ -1,0 +1,7 @@
+
+.header-container {
+  display: flex;
+  justify-content: center; /* Centra horizontalmente */
+  align-items: center; /* Centra verticalmente, si es necesario */
+  text-align: center; /* Alinea el texto al centro */
+}
